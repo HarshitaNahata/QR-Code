@@ -1,4 +1,4 @@
-# QR-Code
+# QR-Code Generator
 A QR code generator is a program or script that allows you to create QR codes, which are two-dimensional barcodes that can store various types of data, such as URLs, text, contact information, or other data formats. QR codes are widely used in marketing, advertising, and mobile applications for quickly and easily sharing information.
 In Python, you can use the qrcode library to generate QR codes. This library provides an easy-to-use interface for creating QR codes with customizable options. Here's a breakdown of the steps involved in generating a QR code using Python:
 
